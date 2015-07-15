@@ -13,7 +13,7 @@
     ${post.content}
 
     <hr/>
-<hr/>
+
 </g:each>
 
 </body>
